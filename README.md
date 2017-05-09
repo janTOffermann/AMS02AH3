@@ -21,7 +21,6 @@ The code was run in the ROOT interpreter. For example, one may run the following
 $ root -l
 $ root [0] .L ah3_mc.C
 $ root [1] ConvergeMulti(6, 2, 4)
-$ root [2] GenHist("50k_events_with_errors.root")
 ```
 One may alternatively call Converge(n, m) to simply run a maximum of n events, where each event produces m antinucleons. 
 
