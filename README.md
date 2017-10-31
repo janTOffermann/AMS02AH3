@@ -26,9 +26,6 @@ One may alternatively call Converge(n, m) to simply run a maximum of n events, w
 
 ### Acknowledgements
 
-I would like to thank Professor Daniel Marlow for serving as my advisor for this project. I would also like to thank my father Edmond Offermann for teaching me most of what I know about ROOT's functionality, and Dr. Ryan R. Rios of NASA Johnson Space Center for teaching me good ROOT coding practices.
+I would like to thank Professor Daniel Marlow for serving as my advisor for this project. I would also like to thank Edmond Offermann for teaching me most of what I know about ROOT's functionality, and Dr. Ryan R. Rios of NASA Johnson Space Center for teaching me good ROOT coding practices.
 
-### Contact
-For any questions, I may be reached at jano@princeton.edu. Thank you.
-
-Jan Tuzlic Offermann
+Jan Offermann
